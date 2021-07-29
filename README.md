@@ -5,6 +5,13 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
 
 ### 🧰 These are some of the languages and tools i feel comfortable working with: 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik&show_icons=true)
+
+
 </br>
 
 <p align="center">
@@ -54,7 +61,7 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
 
 </br>
     
- #### Where to find me🌎:
+ #### Get in touch with me! 🌎:
  
  <p align="left"> 
  <a href="https://www.linkedin.com/in/martinbobrikfullstack/"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" width="35"/ margin="3"></a> 
