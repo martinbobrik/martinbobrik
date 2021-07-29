@@ -13,7 +13,7 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
  </a>  
  
  <a href='https://git-scm.com'/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" width='48' style="vertical-align:top; margin:4px">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="git" height="40" width='48' style="vertical-align:top; margin:4px">
  </a>  
   
  <a href='https://www.javascript.com/'/>
