@@ -4,6 +4,8 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
 
 
 ### 🧰 These are some of the languages and tools i feel comfortable working with: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
 
