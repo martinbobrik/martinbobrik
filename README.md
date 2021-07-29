@@ -1,18 +1,16 @@
-## Hi there! I'm Martin Bobrik 👋
+## Hi there! I'm Martin Bobrik :bowtie:
 
-I'm a full stack web developer, eager to make the most of what i've learned and to get started in a development work enviroment.
+I'm a full stack web developer, eager to make the most of what i've learned, to keep learning, and to get started in a development work enviroment.
 
 
-### 🧰 These are some of the languages and tools i feel comfortable working with: 
+### Some of my github stats for you: :chart_with_upwards_trend:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinbobrik&show_icons=true)
-
+### 🧰 These are some of the languages and tools i feel comfortable working with: 
 
 </br>
 
