@@ -1,7 +1,7 @@
 ## Hi there! I'm Martin Bobrik :bowtie:
 
-I'm a full stack web developer, eager to make the most of what i've learned, to keep learning, and to get started in a development work enviroment.
-I'm also a professional musician and have a national music teaching degree, but right now i'm in persuit of new experiences. Given the recent world changes, i got across the oportunity to participate on an INTENSIVE coding bootcamp where I got acquainted with a variety of technologies related to web development.
+I'm a full stack web developer, eager to make the most of what I've learned, to keep learning, and to get started in a development work enviroment.
+I'm also a professional musician and have a national music teaching degree, but right now I'm in persuit of new experiences. Given the recent world changes, I got across the oportunity to participate on an INTENSIVE coding bootcamp, and I took it. That's how I got acquainted with a wide variety of technologies related to web development.
 
 
 ### 🧰 These are some of the languages and tools i feel comfortable working with: 
