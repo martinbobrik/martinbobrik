@@ -35,7 +35,7 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
  
  
  <a href='https://sass-lang.com/'/>
-   <img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" height="40" style="vertical-align:top; margin:4px">
  </a>
  
  <a href='https://nodejs.org/en'/>
