@@ -17,7 +17,7 @@ I'm a full stack web developer, eager to make the most of what i've learned and 
  </a>  
   
  <a href='https://www.javascript.com/'/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  alt="Javascript" height="40" width='48' style="vertical-align:top; margin:4px">
+  <img src="https://lh3.googleusercontent.com/proxy/d5PZpEeoCIKDYEBFNITgCoCQhDYH5V5im5RUUQYjL5zI9we1FaQxP4eSX0O3fO-smwJrKcR21Jh2hGSLe3JIpOgy9c9mNuxOtm0uxt5pMCNNSyqGqNHFUJu32MO0PFOXEKmh6q7UfE1l"  alt="Javascript" height="40" width='48' style="vertical-align:top; margin:4px">
  </a>
  
  <a href='https://reactjs.org'/>
