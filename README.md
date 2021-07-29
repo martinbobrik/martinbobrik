@@ -62,7 +62,7 @@ I'm also a professional musician and have a national music teaching degree, but 
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinbobrik)](https://github.com/anuraghazra/github-readme-stats)
 </span>
     
- #### Get in touch with me! 🌎:
+ #### Get in touch with me! 🌎
  
  <p align="left"> 
  <a href="https://www.linkedin.com/in/martinbobrikfullstack/"><img src="https://cdn.icon-icons.com/icons2/642/PNG/512/linkedin_icon-icons.com_59208.png" width="35"/ margin="3"></a> 
