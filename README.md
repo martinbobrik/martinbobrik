@@ -1,6 +1,6 @@
 ## Hi there! I'm Martin Bobrik :bowtie:
 
-I'm a full stack web developer, eager to make the most of what I've recently learned, get my start in the world of the software development, and keep on learning.
+I'm a full-stack web developer, learning, growing, and looking for my second job in the world of software development
 
 I'm also a professional musician with music teaching degree. Because of recent world changes, I decided to pursue new experiences and took the oportunity to participate in an intensive coding bootcamp. I learned a wide variety of technologies related to web development and feel I am now ready to get to work.
 
